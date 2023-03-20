@@ -2,7 +2,7 @@
 
 <p align="center">Philadelphia</p>
 <p align="center">FE Engineering Student - Turing School of Software & Design</p>
-<p align="center">🌞 Career-switching, mission-driven, problem-solving, yoga-loving, music-making, always learning. 🌞</p>
+<p align="center">🌞 Career-switching, mission-driven, problem-solving, yoga-loving, music-making, community-oriented, always learning, cat dad. 🌞</p>
 
 
 <div align="center">
