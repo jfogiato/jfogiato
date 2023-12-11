@@ -1,7 +1,7 @@
 <h1 align="center">Joseph 'Joe' Fogiato - he/him</h1>
 
 <p align="center">Philadelphia</p>
-<p align="center">FE Engineering Student - Turing School of Software & Design</p>
+
 <p align="center">🌞 Career-switching, mission-driven, problem-solving, yoga-loving, music-making, community-oriented, always learning, cat dad. 🌞</p>
 
 
